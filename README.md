@@ -32,10 +32,10 @@ e31.a = com.kakao.talk.loco.protocol.LocoReq
 
 locoBody chatid=방식별번호
 
-- 마지막 수정 -
-smali 변경 httpScheme \n
-const/16 v1, 0x1bb = 443 \n
-const-string v2, "https" \n
+- 마지막 수정 
+smali 변경 httpScheme 
+const/16 v1, 0x1bb = 443 
+const-string v2, "https" 
 
-$className: com.iap.ac.android.ld0.h \n
+$className: com.iap.ac.android.ld0.h 
 
