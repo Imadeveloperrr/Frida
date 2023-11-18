@@ -16,6 +16,7 @@ AES_128_GCM : 암호화 알고리즘 (고급 암호화 표준 128비트 갈루�
 SHA256 : 메시지 인증 알고리즘 (안전 해시 알고리즘 256비트)
 
 ------------------------------     frida 명령어     ------------------------------
+
 frida-ps -Uai
 
 frida -U -f com.kakao.talk -l C:\FirstWorkspace\Frida\locoProtocol.js
@@ -31,9 +32,10 @@ e31.a = com.kakao.talk.loco.protocol.LocoReq
 
 locoBody chatid=방식별번호
 
-smali 변경 httpScheme
-const/16 v1, 0x1bb = 443
-const-string v2, "https"
+- 마지막 수정 -
+smali 변경 httpScheme \n
+const/16 v1, 0x1bb = 443 \n
+const-string v2, "https" \n
 
-$className: com.iap.ac.android.ld0.h
+$className: com.iap.ac.android.ld0.h \n
 
