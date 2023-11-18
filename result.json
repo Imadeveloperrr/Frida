@@ -1,0 +1,724 @@
+{
+    "status":0,
+    "accountId":244759158,
+    "accountDisplayId":"+82 10-5850-7180",
+    "hashedAccountId":"CD48041BCBE2B61CE4B88059FAABD219CE802295A4E343679C87AFA799573CC0",
+    "emailAddress":"",
+    "emailVerified":false,
+    "linkedServices":"",
+    "emailStatus":1,
+    "agreeAdidTerms":true,
+    "alertSound":"KAKAO_NS_01",
+    "available":943192640,
+    "available2":43700763637644,
+    "birthdaySetting":
+    {
+        "visibility":true,
+        "notification":false
+    },
+    "cacheFarm":"kr",
+    "chatRoomDecorationSetting":
+    {"revision":90},
+    "chat_backup":false,
+    "clientConf":
+    {"osVersion":"28"},
+    "contactNameSync":0,
+    "daumSsoLoginAvailable":false,
+    "hasDeviceInfo":true,
+    "useSub":false,
+    "subDeviceLoginAlert":true,
+    "emoticonAvailable":true,
+    "emailAuthViewType":"webview",
+    "floatingNoticeAvailable":true,
+    "featureFlags":["handy_keyword_disabled","open_chat_group_room_pay_disabled"],
+    "friendAutomation":true,"friendRecommendation":true,
+    "addibleAsFriendByPhoneNumber":true,
+    "gameMsgFriendOnly":false,
+    "gameTabEnabled":false,
+    "globalTabBanner":{"revision":1688344501},
+    "inventorySetting":{"inhouseInventoryRevision":855},
+    "kaccountAlert":{"type":1,"locations":[1,2,3,4,6,7],"kakaoAccountStatus":2},
+    "lcsAgreed":false,
+    "locoConfRevision":164,
+    "member":
+    {
+        "nickName":"심현지",
+        "profileImageUrl":"",
+        "fullProfileImageUrl":"",
+        "originalProfileImageUrl":"",
+        "type":-10,
+        "userType":0,
+        "phoneNumber":"821058507180",
+        "statusMessage":"",
+        "UUID":"",
+        "accountId":244759158,
+        "suspended":false,
+        "directChatId":0,
+        "ext":{}
+    },
+    "moreApps":{},
+    "myTabSetting":{"gridRevision":1690767408},
+    "settingsStatus":0,
+    "since":1687225629,
+    "openChat":
+    {
+        "chatMemberMaxJoin":1500,
+        "chatRoomMaxJoin":300,
+        "createLinkLimit":10,
+        "createCardLinkLimit":3,
+        "numOfStaffLimit":5,
+        "rewritable":true,
+        "handoverEnabled":true
+    },
+    "pstnNumber":"821058507180",
+    "formattedPstnNumber":"+82 10-5850-7180",
+    "nsnNumber":"01058507180",
+    "formattedNsnNumber":"010-5850-7180",
+    "allowMigration":true,
+    "friendsPollingInterval":600,
+    "friendsRecommendListPollingInterval":10800,
+    "settingsPollingInterval":664,
+    "moreListPollingInterval":0,
+    "morePayPollingInterval":0,
+    "lessSettingsPollingInterval":21600,
+    "statusMessage":"",
+    "nickName":"심현지",
+    "profileImageUrl":"",
+    "fullProfileImageUrl":"",
+    "originalProfileImageUrl":"",
+    "profileSettings":
+    {
+        "useProfileHistoryShare":true
+    },
+    "pushPreview":true,
+    "pushMediaPreview":false,
+    "mchatPushAlert":true,
+    "gcmAvailability":2,
+    "recentVersion":"10.2.7",
+    "server_time":1690861243,
+    "sharpSearchCollectionSetting":
+    {
+        "revision":146
+    },
+    "themeSettings":
+    {
+        "revision":627,
+        "badgeRevision":1671690119
+    },
+    "contentTab":"channel",
+    "usim_same_number":"empty",
+    "usim_same_numbers":null,
+    "uuid":"",
+    "uuidSearchable":true,
+    "voipAvailableDevice":true,
+    "voipAvailability":true,
+    "voipAvailableCountry":true,
+    "geolocationLogSetting":
+    {
+        "entries":5,
+        "intervalInSeconds":86400
+    },
+    "useUnknownGroupChatJoinStep":false,
+    "invalidMedia":{"revision":5},
+    "labActive":false,
+    "silentChatRoomActive":true,
+    "androidDownloadUrl":""
+}
+
+/* number 2 */
+
+{
+    "canonicalUrl":"https://og.tossbank.com?title=%EC%9E%84*%ED%98%B8%EB%8B%98%EC%9D%98+%EB%8F%88%EC%A3%BC%EB%A8%B8%EB%8B%88+%EC%97%B4%EC%96%B4%EB%B3%B4%EA%B8%B0&description=2023%EB%85%84+8%EC%9B%94+4%EC%9D%BC+%EC%98%A4%ED%9B%84+9%EC%8B%9C%EC%A0%84%EA%B9%8C%EC%A7%80+%EC%97%B4%EC%96%B4%EC%A3%BC%EC%84%B8%EC%9A%94.&imageUrl=https%3A%2F%2Fapi.tossbank.com%2Fapi-public%2Fshare-tracker%2Fog%2Fimage%3FimageUrl%3Dhttps%253A%252F%252Fstatic.toss.im%252Fillusts%252Fog-bank-event-202307.png%26shareUrl%3Dhttps%253A%252F%252Fservice.tossbank.com%252Fonboarding-promotion%252Fmoney-pocket%252F48cc76cd-e685-498c-8d38-1c86d2169550%26productId%3D31%26eventName%3D%EB%8F%88%EC%A3%BC%EB%A8%B8%EB%8B%88%26virtualUserId%3D2d8f625807a880ea2d58a4c19978d74e&returnUrl=https%3A%2F%2Ftoss.onelink.me%2F3563614660%3Fpid%3Dreferral%26c%3Dconversion_tossbanksavingscreate_performance%26af_adset%3Dtossbanksavingscreate_20230406_2301055%26af_ad%3D120930%26is_retargeting%3Dtrue%26onelinkclid%3D310a3a9b-a3d8-4b4d-a870-b21df868f0d3%26af_web_dp%3Dhttps%253A%252F%252Fservice.tossbank.com%252Fonboarding-promotion%252Fmoney-pocket%252F48cc76cd-e685-498c-8d38-1c86d2169550%26af_r%3Dhttps%253A%252F%252Fservice.tossbank.com%252Fonboarding-promotion%252Fmoney-pocket%252F48cc76cd-e685-498c-8d38-1c86d2169550%26af_dp%3Dsupertoss%253A%252F%252Flab%253Furl%253Dhttps%25253A%25252F%25252Fservice.tossbank.com%25252Fonboarding-promotion%25252Fmoney-pocket%25252F48cc76cd-e685-498c-8d38-1c86d2169550%26deep_link_value%3Dsupertoss%253A%252F%252Flab%253Furl%253Dhttps%25253A%25252F%25252Fservice.tossbank.com%25252Fonboarding-promotion%25252Fmoney-pocket%25252F48cc76cd-e685-498c-8d38-1c86d2169550%26af_force_deeplink%3Dtrue",
+    "contentType":"text/html; charset=utf-8",
+    "description":"2023년 8월 4일 오후 9시전까지 열어주세요.",
+    "imageUrls":[
+       "https://api.tossbank.com/api-public/share-tracker/og/image?imageUrl=https%3A%2F%2Fstatic.toss.im%2Fillusts%2Fog-bank-event-202307.png&shareUrl=https%3A%2F%2Fservice.tossbank.com%2Fonboarding-promotion%2Fmoney-pocket%2F48cc76cd-e685-498c-8d38-1c86d2169550&productId=31&eventName=%EB%8F%88%EC%A3%BC%EB%A8%B8%EB%8B%88&virtualUserId=2d8f625807a880ea2d58a4c19978d74e&bot-pattern=kakaotalk-scrap"
+    ],
+    "mainImageUrl":"http://img1.daumcdn.net/thumb/S800x400/?scode=talkscrap&fname=https%3A%2F%2Fapi.tossbank.com%2Fapi-public%2Fshare-tracker%2Fog%2Fimage%3FimageUrl%3Dhttps%253A%252F%252Fstatic.toss.im%252Fillusts%252Fog-bank-event-202307.png%26shareUrl%3Dhttps%253A%252F%252Fservice.tossbank.com%252Fonboarding-promotion%252Fmoney-pocket%252F48cc76cd-e685-498c-8d38-1c86d2169550%26productId%3D31%26eventName%3D%25EB%258F%2588%25EC%25A3%25BC%25EB%25A8%25B8%25EB%258B%2588%26virtualUserId%3D2d8f625807a880ea2d58a4c19978d74e%26bot-pattern%3Dkakaotalk-scrap",
+    "meta":{
+       "cached":true
+    },
+    "suspected":0,
+    "title":"임*호님의 돈주머니 열어보기",
+    "url":"https://toss.im/_ul/zGpwLC2",
+    "leverage":{},
+    "status":0
+ }
+
+
+ {
+    "canonicalUrl":"https://farm.nonghyup.com/comm/link/comm1020.do?pm=rcmObjId%3D10519347&type=join",
+    "contentType":"text/html;charset=UTF-8",
+    "description":"농사의 모든 것 NH오늘농사",
+    "imageUrls":[
+       "https://farm.nonghyup.com/images/og/join_logo.png"
+    ],
+    "mainImageUrl":"http://img1.daumcdn.net/thumb/S800x400/?scode=talkscrap&fname=https%3A%2F%2Ffarm.nonghyup.com%2Fimages%2Fog%2Fjoin_logo.png",
+    "meta":{
+       "cached":true
+    },
+    "suspected":0,
+    "title":"NH오늘농사",
+    "url":"https://farm.nonghyup.com/comm/link/comm1020.do?type=join&pm=rcmObjId%3D10519347",
+    "leverage":{},
+    "status":0
+ }
+ 
+ /* LocoHeader */
+
+ {
+    "TransLayer:LocoHeader": {
+      "packetId": 10057,
+      "status": 0,
+      "method": "CHATONROOM",
+      "bodyLength": 36
+    },
+    "Body": {
+      "chatId": 363786233043188,
+      "token": 1690022023
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 10057,
+      "status": 0,
+      "method": "CHATONROOM",
+      "bodyLength": 150
+    },
+    "Body": {
+      "status": 0,
+      "c": 363786233043188,
+      "m": [],
+      "mi": null,
+      "l": 3104085095805110273,
+      "t": "DirectChat",
+      "r": null,
+      "o": 1690022023,
+      "pct": null,
+      "mr": {},
+      "sui": 0,
+      "a": [70677195],
+      "w": [3104085095805110273]
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 674312743,
+      "status": 0,
+      "method": "MSG",
+      "bodyLength": 367
+    },
+    "Body": {
+      "chatLog": {
+        "logId": 3104089876738846720,
+        "chatId": 18387580674959478,
+        "type": 1,
+        "authorId": 8062220380320244253,
+        "message": "거지방임다. 방하트 눌러주세요! 기본닉넴 변경필수. 1일 1홍보가능. 공지내용 확인필수! (미확인후 대화시 강퇴대상임)",
+        "sendAt": 1690973548,
+        "msgId": 1690973548905,
+        "prevId": 3104089876086628352
+      },
+      "chatId": 18387580674959478,
+      "authorNickname": "오픈채팅봇",
+      "noSeen": false,
+      "li": 288879894
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 674312743,
+      "status": 0,
+      "method": "MSG",
+      "bodyLength": 16
+    },
+    "Body": {
+      "notiRead": false
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 467907826,
+      "status": 0,
+      "method": "NEWMEM",
+      "bodyLength": 236
+    },
+    "Body": {
+      "status": 0,
+      "chatLog": {
+        "logId": 3104089876086628352,
+        "prevId": 3104089683207337984,
+        "chatId": 18387580674959478,
+        "type": 0,
+        "authorId": 8950382661296577426,
+        "message": {
+          "feedType": 4,
+          "members": [
+            {"userId": 8950382661296577426, "nickName": "떨고있는 어피치"}
+          ]
+        },
+        "sendAt": 1690973548,
+        "msgId": 0
+      }
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 10058,
+      "status": 0,
+      "method": "MEMBER",
+      "bodyLength": 48
+    },
+    "Body": {
+      "chatId": 18387580674959478,
+      "memberIds": [8950382661296577426]
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 10058,
+      "status": 0,
+      "method": "MEMBER",
+      "bodyLength": 407
+    },
+    "Body": {
+      "chatId": 18387580674959478,
+      "members": [
+        {
+          "userId": 8950382661296577426,
+          "type": 1000,
+          "nickName": "떨고있는 어피치",
+          "pi": "https://open.kakaocdn.net/dn/bsXRTX/wn7rGXKaex/tCC50cmtuzgNIdLTAUsi0k/img_s.jpg",
+          "fpi": "https://open.kakaocdn.net/dn/bsXRTX/wn7rGXKaex/tCC50cmtuzgNIdLTAUsi0k/img_l.jpg",
+          "opi": "https://open.kakaocdn.net/dn/bsXRTX/wn7rGXKaex/tCC50cmtuzgNIdLTAUsi0k/img.jpg",
+          "opt": 1690973548,
+          "mt": 2
+        }
+      ],
+      "status": 0,
+      "errMsg": null
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 10059,
+      "status": 0,
+      "method": "WRITE",
+      "bodyLength": 105
+    },
+    "Body": {
+      "extra": {},
+      "chatId": 363786233043188,
+      "type": 1,
+      "msg": "ㅋㅋ 내가 보내는 거",
+      "msgId": 904015318,
+      "noSeen": false
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 10059,
+      "status": 0,
+      "method": "WRITE",
+      "bodyLength": 105
+    },
+    "Body": {
+      "extra": {},
+      "chatId": 363786233043188,
+      "type": 1,
+      "msg": "ㅋㅋ 내가 보내는 거",
+      "msgId": 904015318,
+      "noSeen": false
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 10059,
+      "status": 0,
+      "method": "WRITE",
+      "bodyLength": 108
+    },
+    "Body": {
+      "status": 0,
+      "chatId": 363786233043188,
+      "logId": 3104090036200294400,
+      "authorNickname": "",
+      "sendAt": 1690973567,
+      "msgId": 904015318,
+      "prevId": 3104085095805110273
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 641308799,
+      "status": 0,
+      "method": "DECUNREAD",
+      "bodyLength": 68
+    },
+    "Body": {
+      "status": 0,
+      "chatId": 363786233043188,
+      "userId": 70677195,
+      "watermark": 3104090036200294400
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 1027495600,
+      "status": 0,
+      "method": "MSG",
+      "bodyLength": 215
+    },
+    "Body": {
+      "status": 0,
+      "chatId": 363786233043188,
+      "logId": 3104090132190844928,
+      "chatLog": {
+        "logId": 3104090132190844928,
+        "chatId": 363786233043188,
+        "type": 1,
+        "authorId": 70677195,
+        "message": "이건 내가 보내는것이여",
+        "sendAt": 1690973579,
+        "msgId": 844296110,
+        "prevId": 3104090036200294400
+      },
+      "noSeen": false
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 1027495600,
+      "status": 0,
+      "method": "MSG",
+      "bodyLength": 16
+    },
+    "Body": {
+      "notiRead": true
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 822554875,
+      "status": 0,
+      "method": "DECUNREAD",
+      "bodyLength": 68
+    },
+    "Body": {
+      "status": 0,
+      "chatId": 363786233043188,
+      "userId": 70677195,
+      "watermark": 3104090132190844928
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 10060,
+      "status": 0,
+      "method": "CHATOFF",
+      "bodyLength": 5
+    },
+    "Body": {}
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 10060,
+      "status": 0,
+      "method": "CHATOFF",
+      "bodyLength": 17
+    },
+    "Body": {
+      "status": 0
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 10061,
+      "status": 0,
+      "method": "SYNCMSG",
+      "bodyLength": 56
+    },
+    "Body": {
+      "chatId": 363786233043188,
+      "cur": 3104085095805110273,
+      "max": 3104090132190844928,
+      "cnt": 2
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 10061,
+      "status": 0,
+      "method": "SYNCMSG",
+      "bodyLength": 55
+    },
+    "Body": {
+      "status": 0,
+      "isOK": true,
+      "chatLogs": null,
+      "lastTokenId": 3104090181115058754
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 10062,
+      "status": 0,
+      "method": "CHATONROOM",
+      "bodyLength": 45
+    },
+    "Body": {
+      "chatId": 18387580674959478,
+      "token": 1690972982,
+      "opt": 1690253486
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 10062,
+      "status": 0,
+      "method": "CHATONROOM",
+      "bodyLength": 1968
+    },
+    "Body": {
+      "status": 0,
+      "errMsg": null,
+      "adOn": false,
+      "c": 18387580674959478,
+      "m": [
+        {
+          "userId": 6463110055171354142,
+          "type": 1000,
+          "nickName": "청소하는 튜브",
+          "pi": "https://open.kakaocdn.net/dn/dX45RP/wn8QjGCw4j/Lo0aMNmijuzy1mnKkdRef0/img_s.jpg",
+          "fpi": "https://open.kakaocdn.net/dn/dX45RP/wn8QjGCw4j/Lo0aMNmijuzy1mnKkdRef0/img_l.jpg",
+          "opi": "https://open.kakaocdn.net/dn/dX45RP/wn8QjGCw4j/Lo0aMNmijuzy1mnKkdRef0/img.jpg",
+          "opt": 1690973264,
+          "mt": 2
+        },
+        {
+          "userId": 4777164801669041146,
+          "type": 1000,
+          "nickName": "크큭",
+          "pi": "https://open.kakaocdn.net/dn/dCEnn9/wn80qFxJcI/CdmnRz3yb5D0rIQJOfSih1/img_s.jpg",
+          "fpi": "https://open.kakaocdn.net/dn/dCEnn9/wn80qFxJcI/CdmnRz3yb5D0rIQJOfSih1/img_l.jpg",
+          "opi": "https://open.kakaocdn.net/dn/dCEnn9/wn80qFxJcI/CdmnRz3yb5D0rIQJOfSih1/img.jpg",
+          "opt": 1690973041,
+          "mt": 2
+        },
+        {
+          "userId": 5848341787813254312,
+          "type": 1000,
+          "nickName": "통장다이어트",
+          "pi": "https://open.kakaocdn.net/dn/bWWklQ/wn80s4qIYc/WPnilIwsIcpfeVN6MKNse0/img_s.jpg",
+          "fpi": "https://open.kakaocdn.net/dn/bWWklQ/wn80s4qIYc/WPnilIwsIcpfeVN6MKNse0/img_l.jpg",
+          "opi": "https://open.kakaocdn.net/dn/bWWklQ/wn80s4qIYc/WPnilIwsIcpfeVN6MKNse0/img.jpg",
+          "opt": 1690973116,
+          "mt": 2
+        },
+        {
+          "userId": 8006046257524382312,
+          "type": 1000,
+          "nickName": "ㅇ",
+          "pi": "https://open.kakaocdn.net/dn/tUTx3/wn8QapmYEN/TadfyvvsSaWyfSSZ2OBXTK/img_s.jpg",
+          "fpi": "https://open.kakaocdn.net/dn/tUTx3/wn8QapmYEN/TadfyvvsSaWyfSSZ2OBXTK/img_l.jpg",
+          "opi": "https://open.kakaocdn.net/dn/tUTx3/wn8QapmYEN/TadfyvvsSaWyfSSZ2OBXTK/img.jpg",
+          "opt": 1690973302,
+          "mt": 2
+        },
+        {
+          "userId": 8950382661296577426,
+          "type": 1000,
+          "nickName": "떨고있는 어피치",
+          "pi": "https://open.kakaocdn.net/dn/bsXRTX/wn7rGXKaex/tCC50cmtuzgNIdLTAUsi0k/img_s.jpg",
+          "fpi": "https://open.kakaocdn.net/dn/bsXRTX/wn7rGXKaex/tCC50cmtuzgNIdLTAUsi0k/img_l.jpg",
+          "opi": "https://open.kakaocdn.net/dn/bsXRTX/wn7rGXKaex/tCC50cmtuzgNIdLTAUsi0k/img.jpg",
+          "opt": 1690973548,
+          "mt": 2
+        }
+      ],
+      "mi": null,
+      "l": 3104089876738846720,
+      "t": "OM",
+      "r": {
+        "1": 3085032692222558208,
+        "14": 3068986910867816333,
+        "16": 3100537381244649472,
+        "17": 3100537374298800128
+      },
+      "mr": {
+        "1": 110670758246641443
+      },
+      "o": 1690973589,
+      "otk": 1690681774,
+      "notiRead": true,
+      "ef": true
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 10063,
+      "status": 0,
+      "method": "SYNCMSG",
+      "bodyLength": 56
+    },
+    "Body": {
+      "chatId": 18387580674959478,
+      "cur": 3104085143511117827,
+      "max": 3104089876738846720,
+      "cnt": 32
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 10063,
+      "status": 0,
+      "method": "SYNCMSG",
+      "bodyLength": 86
+    },
+    "Body": {
+      "status": 0,
+      "errMsg": null,
+      "isOK": true,
+      "chatLogs": null,
+      "lastTokenId": 3104090237733929021,
+      "li": 288879894,
+      "notiRead": true
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 10064,
+      "status": 0,
+      "method": "WRITE",
+      "bodyLength": 82
+    },
+    "Body": {
+      "extra": {},
+      "chatId": 18387580674959478,
+      "type": 1,
+      "msg": "킁",
+      "msgId": 904045318,
+      "noSeen": false
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 10064,
+      "status": 0,
+      "method": "WRITE",
+      "bodyLength": 114
+    },
+    "Body": {
+      "status": 0,
+      "chatId": 18387580674959478,
+      "logId": 3104090288328296448,
+      "authorNickname": "흠냐",
+      "sendAt": 1690973597,
+      "msgId": 904045318,
+      "prevId": 3104089876738846720
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 10065,
+      "status": 0,
+      "method": "SYNCMSG",
+      "bodyLength": 56
+    },
+    "Body": {
+      "chatId": 18387580674959478,
+      "cur": 3104089876738846720,
+      "max": 3104090288328296448,
+      "cnt": 1
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 10065,
+      "status": 0,
+      "method": "SYNCMSG",
+      "bodyLength": 86
+    },
+    "Body": {
+      "status": 0,
+      "errMsg": null,
+      "isOK": true,
+      "chatLogs": null,
+      "lastTokenId": 3104090322073053332,
+      "li": 288879894,
+      "notiRead": true
+    }
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 10066,
+      "status": 0,
+      "method": "CHATOFF",
+      "bodyLength": 5
+    },
+    "Body": {}
+  }
+  
+  {
+    "TransLayer:LocoHeader": {
+      "packetId": 10066,
+      "status": 0,
+      "method": "CHATOFF",
+      "bodyLength": 17
+    },
+    "Body": {
+      "status": 0
+    }
+  }
+  
+  [
+    {
+      "userId": "8284039326504600089",
+      "type": 1000,
+      "nickName": "개구리",
+      "pi": "https://open.kakaocdn.net/dn/l0sXI/wmtoajpD1W/PFLEKuSiOPOoQej5frGCE0/img_s.jpg",
+      "fpi": "https://open.kakaocdn.net/dn/l0sXI/wmtoajpD1W/PFLEKuSiOPOoQej5frGCE0/img_l.jpg",
+      "opi": "https://open.kakaocdn.net/dn/l0sXI/wmtoajpD1W/PFLEKuSiOPOoQej5frGCE0/img.jpg",
+      "opt": 1690863326,
+      "pli": 181347738,
+      "mt": 2
+    },
+    {
+      "userId": "5469744539334925697",
+      "type": 1000,
+      "nickName": "박승미",
+      "pi": "https://open.kakaocdn.net/dn/cDpiVu/wmdO4rG8CO/plDMhHUuf4RrIxzf1Szzp0/img_s.jpg",
+      "fpi": "https://open.kakaocdn.net/dn/cDpiVu/wmdO4rG8CO/plDMhHUuf4RrIxzf1Szzp0/img_l.jpg",
+      "opi": "https://open.kakaocdn.net/dn/cDpiVu/wmdO4rG8CO/plDMhHUuf4RrIxzf1Szzp0/img.jpg",
+      "opt": 1689407641,
+      "pli": 161467871,
+      "mt": 2
+    }
+  ]
+  
