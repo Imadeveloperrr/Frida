@@ -24,6 +24,7 @@ frida -U -f com.kakao.talk -l C:\FirstWorkspace\Frida\locoProtocol.js
 
 ---------------------------------------------------------------------------------
 
+
 ### 로코바디에서 반환되는 클래스 주소
 - apktool b --use-aapt2 C:\Users\USER\Downloads\kakaoTalk1 kakao.apk
 - keytool -genkeypair -v -keystore test.jks -keyalg RSA -keysize 1024 -validity 10000 -alias test
